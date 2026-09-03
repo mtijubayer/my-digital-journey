@@ -103,7 +103,7 @@ My projects, experiments, and digital work will be added here as I build and pub
 
 ---
 
-## 🌐 Connect With Me
+## ## 🌐 Connect With Me
 
 - 🔵 **Facebook:** [Facebook](https://www.facebook.com/mtijubayer)
 - 📸 **Instagram:** [Instagram](https://www.instagram.com/mtijubayer/)
@@ -115,7 +115,7 @@ My projects, experiments, and digital work will be added here as I build and pub
 ## 📫 Contact Me
 
 - 📧 **Email:** [muhammadtayyabulislamjubayer@gmail.com](mailto:muhammadtayyabulislamjubayer@gmail.com)
-- 🌐 **Website:** [Visit My Website](https://mtijubayer.hmjubayer986.workers.dev/)
+- 🌐 **Website:** [MTJ Personal Website](https://mtijubayer.hmjubayer986.workers.dev/)
 
 
 ---
