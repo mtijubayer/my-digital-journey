@@ -101,24 +101,21 @@ My projects, experiments, and digital work will be added here as I build and pub
 
 ---
 
-🌐 Connect With Me
+---
 
-🔵 Facebook: https://www.facebook.com/mtijubayer
+## 🌐 Connect With Me
 
-📸 Instagram: https://www.instagram.com/mtijubayer/
-
-💼 LinkedIn: https://www.linkedin.com/in/mtijubayer/
-
-𝕏 X / Twitter: https://x.com/mtijubayer
-
+- 🔵 **Facebook:** [Facebook](https://www.facebook.com/mtijubayer)
+- 📸 **Instagram:** [Instagram](https://www.instagram.com/mtijubayer/)
+- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mtijubayer/)
+- 𝕏 **X / Twitter:** [X / Twitter](https://x.com/mtijubayer)
 
 ---
 
-📫 Contact Me
+## 📫 Contact Me
 
-📧 Email: muhammadtayyabulislamjubayer@gmail.com
-
-🌐 Website: https://mtijubayer.hmjubayer986.workers.dev/
+- 📧 **Email:** [muhammadtayyabulislamjubayer@gmail.com](mailto:muhammadtayyabulislamjubayer@gmail.com)
+- 🌐 **Website:** [Visit My Website](https://mtijubayer.hmjubayer986.workers.dev/)
 
 
 ---
