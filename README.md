@@ -1,5 +1,3 @@
-
-
 # 👋 Hi, I'm Mohammad Tayyabul Islam Jubayer
 
 ### 🚀 Student • Entrepreneur • Content Creator • AI Enthusiast
@@ -50,90 +48,60 @@ I'm currently focusing on:
 
 ---
 
-## 🛠️ Skills & Interests
+## 🌐 Connect With Me
 
-```text
-Artificial Intelligence     █████░░░░░
-Programming                 ████░░░░░░
-Web Development             ████░░░░░░
-Digital Marketing           ████░░░░░░
-Content Creation            █████░░░░░
-Writing                     █████░░░░░
-Entrepreneurship            █████░░░░░
+🔵 **[Facebook](https://www.facebook.com/mtijubayer)**
 
-> I'm continuously learning and improving these skills.
+📸 **[Instagram](https://www.instagram.com/mtijubayer/)**
 
+💼 **[LinkedIn](https://www.linkedin.com/in/mtijubayer/)**
 
+𝕏 **[X / Twitter](https://x.com/mtijubayer)**
 
+📧 **[Email Me](mailto:muhammadtayyabulislamjubayer@gmail.com)**
 
 ---
 
-🎯 My Goals
+## 🎯 My Goals
 
-💻 Build strong skills in programming and modern technologies
-
-🤖 Create useful AI-powered projects
-
-🌐 Develop professional web development skills
-
-💼 Build a successful freelancing career
-
-📱 Create valuable digital content
-
-🚀 Build and grow my own projects and businesses
-
-🌍 Build a strong and respected personal brand
-
-💡 Turn ideas into useful digital products and services
-
-
+- 💻 Build strong skills in programming and modern technologies
+- 🤖 Create useful AI-powered projects
+- 🌐 Develop professional web development skills
+- 💼 Build a successful freelancing career
+- 📱 Create valuable digital content
+- 🚀 Build and grow my own projects and businesses
+- 🌍 Build a strong and respected personal brand
+- 💡 Turn ideas into useful digital products and services
 
 ---
 
-📂 Projects
+## 📂 Projects
 
 I'm currently learning, experimenting, and building new ideas.
 
-🚧 More Projects Coming Soon...
+### 🚧 More Projects Coming Soon...
 
 My projects, experiments, and digital work will be added here as I build and publish them.
 
+---
+
+## 🌐 My Website
+
+🔗 **[Visit My Personal Website](https://mtijubayer.hmjubayer986.workers.dev/)**
 
 ---
 
----
+## 🌱 My Philosophy
 
-## ## 🌐 Connect With Me
+> **Learn. Build. Improve. Repeat.**
 
-- 🔵 **Facebook:** [Facebook](https://www.facebook.com/mtijubayer)
-- 📸 **Instagram:** [Instagram](https://www.instagram.com/mtijubayer/)
-- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mtijubayer/)
-- 𝕏 **X / Twitter:** [X / Twitter](https://x.com/mtijubayer)
-
----
-
-## 📫 Contact Me
-
-- 📧 **Email:** [muhammadtayyabulislamjubayer@gmail.com](mailto:muhammadtayyabulislamjubayer@gmail.com)
-- 🌐 **Website:** [MTJ Personal Website](https://mtijubayer.hmjubayer986.workers.dev/)
-
-
----
-
-🌱 My Philosophy
-
-> Learn. Build. Improve. Repeat.
-
-
-
-I believe that every skill starts with learning,
-every idea starts with curiosity,
+I believe that every skill starts with learning,  
+every idea starts with curiosity,  
 and every achievement starts with consistent effort.
 
-
 ---
 
-📈 My GitHub Journey
+## 📈 My GitHub Journey
 
 I'm at the beginning of my GitHub and programming journey.
 
@@ -141,15 +109,14 @@ I'm learning, experimenting, and gradually building my skills through practical 
 
 More repositories, projects, experiments, and digital work will be added as I continue to grow.
 
-
 ---
 
-⭐ Thanks for Visiting!
+## ⭐ Thanks for Visiting!
 
 Thanks for visiting my GitHub profile.
 
-If you're interested in Technology, Artificial Intelligence, Web Development, Freelancing, or Entrepreneurship, feel free to connect with me.
+If you're interested in **Technology, Artificial Intelligence, Web Development, Freelancing, or Entrepreneurship**, feel free to connect with me.
 
-🚀 Keep Learning • Keep Building • Keep Growing
+### 🚀 Keep Learning • Keep Building • Keep Growing
 
-— MTJ
+**— MTJ**
